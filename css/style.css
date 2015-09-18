@@ -1,0 +1,208 @@
+*{
+  box-sizing:border-box;
+}
+html{
+  font-size: 1em;
+  font-family:'Alike';
+  background-color:#262625;
+  color:#d9d9d9;
+  
+}
+body{
+  margin:0;
+}
+img{
+  max-width:100%;
+  height:auto;
+}
+h3{
+  color:white;
+  font-size:1em;
+}
+
+
+
+
+.content{
+  font-size: 1.875rem;
+  color:#262626;
+  background-size:49% auto;
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+}
+.right{
+  padding:1.618em 6.472em 3.236em 50%;
+  background-position: 0 50%;
+}
+.illustration_01{
+  background-color:#00c17b;
+  background-image:url('http://i.imgur.com/bomKhUX.png');
+}
+.left{
+  padding:1.618em 50% 3.236em 6.472em;
+  background-position:100% 50%;
+}
+.illustration_02{
+  background-color: #e8697b;
+  background-image:url('http://i.imgur.com/oA1ZSWV.png');
+}
+.separator{
+  font-size:1.5rem;
+  padding:0.1em 0;
+  text-align:center;
+  background-color:black;
+  color:white;
+  text-shadow: 1px 1px 1px 0 #aabbcc;
+}
+
+.illustration_03 {
+  background-color: #14b29a;
+  background-image:url('http://i.imgur.com/PF1P8rM.png');
+}
+.illustration_04 {
+  background-color: #80b9f1;
+  background-image: url("http://i.imgur.com/UvU1hvB.png");
+}
+
+h2{
+  color:white;
+  margin-left:100px;
+  text-shadow: 2px 2px #aabbcc
+  
+	
+}
+
+body{
+  /*background:url(http://cdn.twitrcovers.com/wp-content/uploads/2013/02/Programming-Code-l.jpg) fixed;*/
+
+   background-image:url(http://i.imgur.com/AX8OXuU.jpg);
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+color: #43efws;  /*Sets the text hover color on navbar*/
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >   
+ a:hover, .navbar-default .navbar-nav > .active > a:focus {
+color: white; /*BACKGROUND color for active*/
+background-color: #000000;
+}
+
+  .navbar-default {
+    background-color: #000000;
+    border-color: #FFFFFF;
+    opacity:0.9;
+    border-style: none;
+}
+
+  .dropdown-menu > li > a:hover,
+   .dropdown-menu > li > a:focus {
+    color: #262626;
+   text-decoration: none;
+  background-color: #66CCFF;  /*change color of links in drop down here*/
+   }
+
+ .nav > li > a:hover,
+ .nav > li > a:focus {
+    text-decoration: none;
+    background-color: silver; /*Change rollover cell color here*/
+  }
+
+
+  .navbar-default .navbar-nav > li > a {
+   color: white; /*Change active text color here*/
+    }
+
+.container-fluid{
+  margin-left:60px;
+  margin-right:60px;
+}
+
+.rower{
+  margin-top:50px;
+  margin-bottom:50px;
+}
+
+.links{
+  margin-left:520px;
+}
+
+.jumbotron{
+  border-style:ridge;
+  color:black;
+}
+
+.bgi{
+  background-color:#966111;
+  
+ 
+  
+}
+
+p.text{
+  font-weight:bold;
+  font-family: Palatino, serif;
+  font-style: italic;
+  margin-right:100px;
+  font-size:2em;
+  margin-left:100px;
+  color:white;
+}
+
+p.text3{
+  font-weight:bold;
+  font-family: Palatino, serif;
+  font-style: italic;
+  margin-right:100px;
+  font-size:1em;
+  margin-left:40px;
+  color:#ffffff;
+}
+
+.her{
+ text-align:center;
+  
+}
+
+p.text2{
+  font-weight:bold;
+  font-family: Palatino, serif;
+  font-style: bold;
+  margin-right:100px;
+  font-size:0.8em;
+  margin-left:100px;
+  color:white;
+}
+
+
+.imgborder{
+    width:300px;
+    height:300px;
+    border-width: 5px;
+    border-style: ridge;
+    border-radius: 30px;
+}
+
+.section2{
+  background-image:url(http://i.imgur.com/ytHFEYe.jpg);
+}
+
+.section3{
+  background:url(http://i.imgur.com/0zgp4sU.jpg)fixed;
+}
+
+.normp{
+  text-align:center;
+  color:white;
+}
+
+.text{
+  font-weight:bold;
+  font-family: Palatino, serif;
+  font-style: italic;
+  margin-right:100px;
+  font-size:2em;
+  margin-left:100px;
+  color:white;
+}
+
